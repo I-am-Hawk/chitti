@@ -1,6 +1,6 @@
 # chitti
 
-![logo](https://telegra.ph/file/29e9cfe7094e15c8caa51.png)
+![logo]()
 
 ```
 #include <std/disclaimer.h>
